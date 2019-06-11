@@ -5,7 +5,7 @@
   <p align="center">
     This is a word processor application that perform genetic algorithm on population of random letters and characters.
     <br />
-    <a target="_blank" href="https://diwasx.github.io/genetic_algorithm/genetic_algorithm_wordprocessor/">View Demo</a>
+    <a target="_blank" href="https://diwasx.github.io/genetic_algorithm_wordprocessor">View Demo</a>
     ·
     <a href="https://github.com/diwasx/genetic_algorithm_wordprocessor/issues">Report Bug</a>
   </p>
@@ -30,7 +30,7 @@
 <!-- ABOUT THE PROJECT -->
 ### About The Project
 
-[![https://github.com/diwasx/genetic_algorithm_wordprocessor/](./shot.png)](https://github.com/diwasx/genetic_algorithm_wordprocessor)
+[![https://github.com/diwasx/genetic_algorithm_wordprocessor/](./shot.png)]
 This is a word processor application that perform genetic algorithm on population of random letters and characters. This application is based on Darwinian's Natural Selection, the process that drives biological evolution. Natural selection is the differential survival and reproduction of individuals due to differences in phenotype. It is a key mechanism of evolution, the change in the heritable traits characteristic of a population over generations. 
 
 ### Darwinian Natural Selection
