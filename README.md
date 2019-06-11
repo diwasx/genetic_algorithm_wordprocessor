@@ -29,8 +29,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ### About The Project
-
-[![https://github.com/diwasx/genetic_algorithm_wordprocessor/](./shot.png)]
+![Alt text](./shot.png?raw=true "Screenshot")
 This is a word processor application that perform genetic algorithm on population of random letters and characters. This application is based on Darwinian's Natural Selection, the process that drives biological evolution. Natural selection is the differential survival and reproduction of individuals due to differences in phenotype. It is a key mechanism of evolution, the change in the heritable traits characteristic of a population over generations. 
 
 ### Darwinian Natural Selection
